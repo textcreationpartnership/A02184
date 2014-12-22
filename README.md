@@ -35,9 +35,13 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Two learned and godly sermons, preached by that reuerende and zelous man M. Richard Greenham: on the
+
 #####Body#####
-Two learned and godly sermons, preached by that reuerende and zelous man M. Richard Greenham: on the
+
+1. Two learned and godly Sermons, preached by that reuerende and zelous man, M. Richarde Greenham: and the first of them is of this text folowing.
+
+1. Here foloweth the seconde Sermon, as it was preached by M. Richard Greenham. The text as foloweth.
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
